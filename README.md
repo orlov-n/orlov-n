@@ -1,6 +1,10 @@
 
-### Hi there! My name is Nickolai Orlov, but you can call me Nick.
-I'm a developer with the background in visual arts. I was a professional photographer before a career change, so my passion for creating visually exciting products has found a new outlet. Having the ability to bring things to live with just a few keystrokes is something truly unique to coding and what I love about it.  The never-ending opportunity to learn new technologies pretty much guarantees a constant stream of stimulating experiences.
+![stats2 Nickolai](https://github-readme-stats.vercel.app/api?username=orlov-n&show_icons=true&theme=noctis_minimus)![stats Nickolai](https://github-readme-stats.vercel.app/api/top-langs?username=orlov-n&show_icons=true&locale=en&layout=compact&theme=noctis_minimus)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=What+did+HTML+say+to+CSS?;I+like+your+style!+😎)](https://git.io/typing-svg)
+### Hi there! My name is Nickolai, but you can call me Nick.
+I'm a developer with a background in visual arts. I was a professional photographer before recognizing how much opportunity for creativity there is in programming, and since I have a passion for producing visually captivating products I knew that's where I wanted to be. Having the ability to bring things to life with just a few keystrokes is something truly unique to this field and it's what I love about it.  The perpetual need to learn new technologies guarantees a constant stream of stimulating experiences that keep everything feeling fresh and exciting.  
+
+Currently I'm exploring new employment opportunities, so feel free to approach me about it.
 
 ### You can contact me here: 
 orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nickolai@gmail.com&su=Hi Nick!&body=I'm%20contacting%20you%20via%20GitHub%20about%20an%20exciting%20opportunity!%20:-)" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/> 
@@ -52,8 +56,6 @@ orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nick
   <img src="https://img.shields.io/badge/REST%20-AD51E0.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
 </p>
 
-## Statistics
 
-![stats2 Nickolai](https://github-readme-stats.vercel.app/api?username=orlov-n&show_icons=true&theme=noctis_minimus)
 
-![stats Nickolai](https://github-readme-stats.vercel.app/api/top-langs?username=orlov-n&show_icons=true&locale=en&layout=compact&theme=noctis_minimus)
+
