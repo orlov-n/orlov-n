@@ -1,4 +1,4 @@
-  <img width="480" height="290" src="https://github-readme-streak-stats.herokuapp.com/?user=orlov-n&theme=tokyonight" alt="Nickolai's Stats" /><img width="480"  height="290" src="https://github-readme-stats.vercel.app/api?username=orlov-n&theme=tokyonight&show_icons=true"/>
+<img width="420" height="290" src="https://github-readme-streak-stats.herokuapp.com/?user=orlov-n&theme=tokyonight" alt="Nickolai's Stats" /><img width="420"  height="290" src="https://github-readme-stats.vercel.app/api?username=orlov-n&theme=tokyonight&show_icons=true"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=What+did+HTML+say+to+CSS?;I+like+your+style!+😎)](https://git.io/typing-svg)
 
 
