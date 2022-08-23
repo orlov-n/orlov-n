@@ -1,6 +1,9 @@
-
-![stats2 Nickolai](https://github-readme-stats.vercel.app/api?username=orlov-n&show_icons=true&theme=noctis_minimus)![stats Nickolai](https://github-readme-stats.vercel.app/api/top-langs?username=orlov-n&show_icons=true&locale=en&layout=compact&theme=noctis_minimus)
+  <img width="480" height="290" src="https://github-readme-streak-stats.herokuapp.com/?user=orlov-n&theme=tokyonight" alt="Nickolai's Stats" /><img width="480"  height="290" src="https://github-readme-stats.vercel.app/api?username=orlov-n&theme=tokyonight&show_icons=true"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=What+did+HTML+say+to+CSS?;I+like+your+style!+😎)](https://git.io/typing-svg)
+
+
+
+
 ### Hi there! My name is Nickolai, but you can call me Nick.
 I'm a developer with a background in visual arts. I was a professional photographer before recognizing how much opportunity for creativity there is in programming, and since I have a passion for producing visually captivating products I knew that's where I wanted to be. Having the ability to bring things to life with just a few keystrokes is something truly unique to this field and it's what I love about it.  The perpetual need to learn new technologies guarantees a constant stream of stimulating experiences that keep everything feeling fresh and exciting.  
 
@@ -26,6 +29,7 @@ orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nick
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+![stats Nickolai](https://github-readme-stats.vercel.app/api/top-langs?username=orlov-n&show_icons=true&locale=en&layout=compact&theme=noctis_minimus)
 ## Frameworks/Libraries:
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -58,4 +62,7 @@ orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nick
 
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="150" height="150">
+</p>
 
