@@ -1,4 +1,5 @@
-<img width="420" height="290" src="https://github-readme-streak-stats.herokuapp.com/?user=orlov-n&theme=tokyonight" alt="Nickolai's Stats" /><img width="420"  height="290" src="https://github-readme-stats.vercel.app/api?username=orlov-n&theme=tokyonight&show_icons=true"/>
+<img width="620" src="https://github-readme-stats.vercel.app/api?username=orlov-n&theme=tokyonight&show_icons=true"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=What+did+HTML+say+to+CSS?;I+like+your+style!+😎)](https://git.io/typing-svg)
 
 
@@ -29,7 +30,7 @@ orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nick
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-![stats Nickolai](https://github-readme-stats.vercel.app/api/top-langs?username=orlov-n&show_icons=true&locale=en&layout=compact&theme=noctis_minimus)
+<img width="520" src="https://github-readme-stats.vercel.app/api/top-langs?username=orlov-n&show_icons=true&locale=en&layout=compact&theme=noctis_minimus"/>
 ## Frameworks/Libraries:
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
