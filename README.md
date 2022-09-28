@@ -2,13 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=What+did+HTML+say+to+CSS?;I+like+your+style!+😎)](https://git.io/typing-svg)
 
+<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="150" height="150">
+</p>
+
 
 
 
 ### Hi there! My name is Nickolai, but you can call me Nick.
-I'm a developer with a background in visual arts. I was a professional photographer before recognizing how much opportunity for creativity there is in programming, and since I have a passion for producing visually captivating products I knew that's where I wanted to be. Having the ability to bring things to life with just a few keystrokes is something truly unique to this field and it's what I love about it.  The perpetual need to learn new technologies guarantees a constant stream of stimulating experiences that keep everything feeling fresh and exciting.  
+I'm a developer with a background in visual arts. I was a professional photographer before recognizing how much opportunity for creativity there is in programming and since I have a great passion for making visually captivating products I knew that's what I wanted to do next. 
 
-Currently I'm exploring new employment opportunities, so feel free to approach me about it.
+
+
+The ability to bring things to life with just a few keystrokes is something unique to this field and it's what I truly love about it.  The core requirement to always be learning new technologies guarantees a constant stream of stimulating experiences, which keeps everything feeling fresh and exciting.  
+
 
 ### You can contact me here: 
 orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nickolai@gmail.com&su=Hi Nick!&body=I'm%20contacting%20you%20via%20GitHub%20about%20an%20exciting%20opportunity!%20:-)" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/> 
@@ -19,10 +27,11 @@ orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nick
 </p>
 
 
-## Languages and Tools:
+
+### Languages and Tools:
 
 
-## Languages:
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,7 +40,9 @@ orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nick
 </p>
 
 <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs?username=orlov-n&show_icons=true&locale=en&layout=compact&theme=noctis_minimus"/>
-## Frameworks/Libraries:
+
+
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
@@ -42,12 +53,11 @@ orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nick
   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
 </p>
 
-## Tools:
+
 <p>
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-ECECEC?style=for-the-badge&logo=apple&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
@@ -63,7 +73,4 @@ orlov.nickolai@<a href="https://mail.google.com/mail/?view=cm&fs=1&to=orlov.nick
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="150" height="150">
-</p>
 
