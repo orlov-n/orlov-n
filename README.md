@@ -11,7 +11,7 @@
 
 
 ### Hi there! My name is Nickolai, but you can call me Nick.
-I'm a developer with a background in visual arts. I was a professional photographer before recognizing how much opportunity for creativity there is in programming and since I have a great passion for making visually captivating products I knew that's what I wanted to do next. 
+I'm a developer with a background in visual arts. I was a professional photographer before recognizing how much opportunity for creativity there is in programming and since I have a great passion for making visually captivating product I knew that's what I wanted to do next. 
 
 
 
